@@ -1,18 +1,102 @@
-# 💫 About Me:
-Hi, I'm Nida Khan, a Computer Science (AI) student <br>with a passion for Artificial Intelligence, Java, Data Structures & Algorithms<br>and software development.<br>I enjoy learning new technologies, solving problems, and continuously improving my technical skills<br>while working toward a career in the tech industry.
+<div align="center">
+  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=auto&height=200&section=header&text=Master%20Prompt%20Engine&fontSize=40&fontColor=ffffff&animation=twinkle&theme=dark" width="100%" alt="Header Banner" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=GitHub+README+Master+Prompt;Dark+Luxury+Aesthetic;FAANG-Style+Portfolio+Blueprint" alt="Typing Animation" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nidakhan22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidakhan11255@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nida12595&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nida12595&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nida12595&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://img.shields.io/badge/Template-GitHub%20Profile%20README-4B5563?style=flat-square&logo=github" alt="Template Badge" />
+  <img src="https://img.shields.io/badge/Aesthetic-Dark%20Luxury%20Purple-6B7280?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Theme Badge" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nida12595&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 2. About Section
+
+### Master Prompt Overview[cite: 1]
+This document acts as a high-fidelity system prompt blueprint designed to structure, style, and generate enterprise-grade GitHub Profile README portfolios[cite: 1]. It establishes a premium, recruiter-friendly identity tailored specifically for Senior Software Engineers, AI Engineers, and Top 1% Open Source Contributors looking to showcase architectural depth[cite: 1].
+
+* **Visual Identity:** Adheres strictly to a dark luxury aesthetic featuring purple, indigo, violet, and blue accents[cite: 1].
+* **Layout Design:** Prioritizes strict structural hierarchy, production-ready markdown schemas, and high-quality SVG widgets[cite: 1].
+* **Anti-Pattern Guardrails:** Rejects personal photos, project screenshots, or low-quality visual placeholders to ensure clean, scannable portfolios[cite: 1].
+
+---
+
+## 3. Tech Stack Section
+
+### Markdown Engine & Layout Assets[cite: 1]
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=markdown,html,css,git,github,githubactions" alt="Core Technologies" /></a>
+</p>
+
+---
+
+## 4. Engineering Blueprint Structure
+
+The system blueprint enforces an absolute ordering sequence to maximize reader retention and structural balance[cite: 1]:
+
+| Sequence | Section Component | Asset Requirements |
+| :--- | :--- | :--- |
+| **1** | Animated Header Section[cite: 1] | Wave banner, typing animation, academic & social buttons, view counters[cite: 1] |
+| **2** | About Section[cite: 1] | Software engineering focus, AI/ML expertise, product mindset[cite: 1] |
+| **3** | Tech Stack Section[cite: 1] | Grouped framework skills utilizing standardized high-quality SVG icons[cite: 1] |
+| **4** | AI/ML Expertise Section[cite: 1] | Comprehensive markdown tables dictating proficiencies and domain depth[cite: 1] |
+| **5** | Featured Projects Section[cite: 1] | Collapsible markdown summary blocks with strict technical matrices[cite: 1] |
+| **6** | Experience Section[cite: 1] | Job titles, metric-driven scopes of work, and inline skill tags[cite: 1] |
+| **7** | Achievements Section[cite: 1] | Centered markdown tables focusing on technical recognitions[cite: 1] |
+| **8** | Certifications Section[cite: 1] | Standardized badges organized cleanly by cloud/enterprise provider[cite: 1] |
+| **9** | Coding Profiles Section[cite: 1] | Premium action badges pointing to competitive programming profiles[cite: 1] |
+| **10-13** | GitHub Analytics Fabric[cite: 1] | Real-time readme-stats, language allocations, trophies, and snake automation[cite: 1] |
+| **14-16** | Context Blocks & Sign-off[cite: 1] | YAML focus configurations, interactive connection layouts, and dynamic wave closures[cite: 1] |
+
+---
+
+## 5. Featured Project Schemas
+
+<details>
+<summary>📂 <b>Specification Matrix: Collapsible Project Architectures</b>[cite: 1]</summary>
+<br />
+
+### Description
+The framework requires developers to encapsulate individual project breakdowns inside clean, interactive disclosure elements to optimize space[cite: 1].
+
+### Metric-Driven Ingestion Schema[cite: 1]
+
+| Metric Group | Blueprint Expectation |
+| :--- | :--- |
+| **Stack**[cite: 1] | Exact tech, languages, and frameworks leveraged[cite: 1] |
+| **Scale**[cite: 1] | Quantitative operational load metrics, request counts, or data volume[cite: 1] |
+| **Performance**[cite: 1] | Measured system latency optimizations or execution speeds[cite: 1] |
+| **Security**[cite: 1] | Implementation parameters regarding encryption, isolation, or RBAC modules[cite: 1] |
+| **Impact**[cite: 1] | Concrete business outcomes, efficiency gains, or cost reductions[cite: 1] |
+
+### Blueprint Source
+[Master Blueprint Reference Document](Document1.pdf)[cite: 1]
+
+### Professional Overview
+Each collapsible node demands an explicit structural breakdown[cite: 1]. Casual prose is systematically replaced with granular systems descriptions, detailing exactly how computing pools, vector stores, or streaming clusters are organized.
+</details>
+
+---
+
+## 6. Execution Rules
+
+### Formatting Blueprint Constraints[cite: 1]
+* **Absolute Separators:** Sections must be cleanly divided using markdown horizontal rule strings (`---`)[cite: 1].
+* **Typography Control:** No chaotic, flashy text color variations are allowed outside of the core purple-indigo-blue ecosystem[cite: 1].
+* **Execution Output:** The generation target accepts only zero-comment, production-ready markdown script inside a unified code block[cite: 1].
+
+---
+
+## 14. Current Focus Section
+
+```yaml
+learning:
+  - "Advanced multi-agent orchestration frameworks"
+  - "Zero-downtime microservice migration methodologies"
+building:
+  - "High-performance README compilation pipelines"
+exploring:
+  - "Automated open-source branding vectors"
