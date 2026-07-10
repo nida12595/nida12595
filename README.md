@@ -603,7 +603,7 @@ Other            ███                  5%
 ---
 # 🐍 Contribution Snake
 
-> ⚠️ This animation will appear automatically after you add the GitHub Action (`snake.yml`) in the next step.
+ 
 
 <div align="center">
 
