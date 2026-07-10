@@ -84,7 +84,7 @@ Open To:
 
 I am a passionate **Artificial Intelligence undergraduate** with a strong interest in designing scalable software systems, building modern full-stack web applications, and developing intelligent AI-powered solutions.
 
-My expertise spans **Python, JavaScript, React, Node.js, Express.js, MongoDB, Flask, and Streamlit**, enabling me to create responsive user experiences backed by robust backend architectures. I enjoy solving real-world problems through clean code, continuous learning, and collaborative software engineering.
+My expertise spans **Java, Python, JavaScript, React, Node.js, Express.js, MongoDB, Flask, and Streamlit**, enabling me to create responsive user experiences backed by robust backend architectures. I enjoy solving real-world problems through clean code, continuous learning, and collaborative software engineering.
 
 Currently, I am expanding my knowledge in **Machine Learning, Cloud Computing, and AI-driven application development**, while contributing to personal projects and strengthening my GitHub portfolio.
 
@@ -321,7 +321,7 @@ Focused on Artificial Intelligence, Machine Learning, Full Stack Development, Cl
 - Collaborating on academic and technical projects.
 
 ### Technical Skills Applied
-
+`java`
 `Python`
 `JavaScript`
 `React`
