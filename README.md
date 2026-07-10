@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=auto&height=200&section=header&text=Nida%20Khan&fontSize=40&fontColor=ffffff&animation=twinkle&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=9333EA&height=200&section=header&text=Nida%20Khan&fontSize=40&fontColor=ffffff&animation=twinkle&theme=dark" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -208,7 +208,7 @@ Utilizes complex modern component rendering rules under React to drive state nav
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nida12595&theme=dark&background=111827&title=8B5CF6&sideNums=E5E7EB&sideLabels=9CA3AF&ring=8B5CF6&fire=A78BFA" alt="Streak Stats" width="48%" />
 </div>
 
-br /
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nida12595&layout=compact&theme=dark&title_color=8B5CF6&icon_color=A78BFA&text_color=E5E7EB&bg_color=111827" alt="Top Languages" width="60%" />
