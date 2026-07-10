@@ -303,3 +303,163 @@ Goal:
 > *"Technology is best when it brings people together and solves meaningful problems."*
 
 ---
+# 👩‍💻 Professional Experience
+
+## 🎓 B.Tech Artificial Intelligence Student
+### G. Pullaiah College of Engineering and Technology
+**2023 – 2027**
+
+Focused on Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, and modern Software Engineering principles.
+
+### Responsibilities
+
+- Developing AI-powered applications using Python.
+- Building scalable Full Stack web applications.
+- Learning Machine Learning algorithms and model deployment.
+- Practicing modern frontend engineering using React & Tailwind CSS.
+- Exploring cloud technologies and deployment workflows.
+- Collaborating on academic and technical projects.
+
+### Technical Skills Applied
+
+`Python`
+`JavaScript`
+`React`
+`Node.js`
+`Express.js`
+`MongoDB`
+`Flask`
+`Git`
+`GitHub`
+`Machine Learning`
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|-------------|-------------|
+| 🧠 AI Developer | Built Artificial Intelligence based academic projects |
+| 🌐 Full Stack Developer | Developed responsive MERN Stack applications |
+| ☁️ Cloud Learner | Completed AWS Cloud Practitioner Essentials |
+| 🏅 NPTEL Learner | Successfully completed NPTEL certification courses |
+| 🤝 TEDx Volunteer | PR & Marketing Team Member – TEDx GPCET |
+| 💻 Open Source Learner | Continuously improving GitHub profile and projects |
+
+</div>
+
+---
+
+# 🎓 Certifications
+
+## ☁️ AWS
+
+| Certification | Status |
+|---------------|--------|
+| AWS Cloud Practitioner Essentials | ✅ Completed |
+| AWS Academy Data Engineering Virtual Internship | ✅ Completed |
+
+---
+
+## 🤖 Artificial Intelligence
+
+| Certification | Status |
+|---------------|--------|
+| IBM SkillsBuild – Introduction to Artificial Intelligence | ✅ Completed |
+
+---
+
+## 🌐 NPTEL
+
+| Certification | Status |
+|---------------|--------|
+| Principles of Management | ✅ Elite |
+| Social Networks | ✅ Completed |
+
+---
+
+## 🔐 Cyber Security
+
+| Certification | Status |
+|---------------|--------|
+| Palo Alto Networks Security Operations Fundamentals | ✅ Completed |
+
+---
+
+## 🎤 Leadership
+
+| Certification | Status |
+|---------------|--------|
+| TEDx GPCET – PR & Marketing Team Appreciation | ✅ Awarded |
+
+---
+
+# 🏅 Certification Badges
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Principles%20of%20Management-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Social%20Networks-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Palo%20Alto-Security%20Operations-EF4B24?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TEDx-GPCET-E62B1E?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌍 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/nida12595">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+</div>
+
+---
+
+# 📖 Education
+
+| Qualification | Institution | Year |
+|---------------|------------|------|
+| B.Tech Artificial Intelligence | G. Pullaiah College of Engineering and Technology | 2023 – 2027 |
+
+---
+
+# 🌟 Professional Values
+
+- 🚀 Continuous Learning
+- 🤝 Team Collaboration
+- 💡 Innovation
+- 🔍 Problem Solving
+- 📈 Growth Mindset
+- ⚡ Clean Code
+- 🌍 Open Source Contribution
+
+---
+
+> **"Great software is built through continuous learning, collaboration, and a passion for solving real-world problems."**
+
+---
