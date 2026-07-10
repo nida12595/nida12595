@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=9333EA&height=200&section=header&text=Nida%20Khan&fontSize=40&fontColor=ffffff&animation=twinkle&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=7C3AED&height=200&section=header&text=Nida%20Khan&fontSize=40&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -204,14 +204,14 @@ Utilizes complex modern component rendering rules under React to drive state nav
 ## 10. GitHub Analytics Section
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nida12595&show_icons=true&theme=dark&title_color=8B5CF6&icon_color=A78BFA&text_color=E5E7EB&bg_color=111827" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nida12595&theme=dark&background=111827&title=8B5CF6&sideNums=E5E7EB&sideLabels=9CA3AF&ring=8B5CF6&fire=A78BFA" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nida12595&show_icons=true&theme=dark&title_color=8B5CF6&icon_color=A78BFA&text_color=E5E7EB&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nida12595&theme=dark&background=0d1117&title=8B5CF6&sideNums=E5E7EB&sideLabels=9CA3AF&ring=8B5CF6&fire=A78BFA" alt="Streak Stats" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nida12595&layout=compact&theme=dark&title_color=8B5CF6&icon_color=A78BFA&text_color=E5E7EB&bg_color=111827" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nida12595&layout=compact&theme=dark&title_color=8B5CF6&icon_color=A78BFA&text_color=E5E7EB&bg_color=0d1117" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -219,7 +219,7 @@ Utilizes complex modern component rendering rules under React to drive state nav
 ## 11. GitHub Trophies Section
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nida12595&theme=darkhub&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nida12595&theme=darkhub&no-bg=false&margin-w=15&column=5" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -227,7 +227,7 @@ Utilizes complex modern component rendering rules under React to drive state nav
 ## 12. Contribution Activity Section
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nida12595&theme=react-dark&bg_color=111827&color=8B5CF6&line=6366F1&point=A78BFA&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nida12595&theme=react-dark&bg_color=0d1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -235,6 +235,7 @@ Utilizes complex modern component rendering rules under React to drive state nav
 ## 13. Contribution Snake Section
 
 <div align="center">
+  <p><i>Note: The contribution snake animation requires setting up an automated GitHub Action to build your <code>github-contribution-grid-snake.svg</code> assets dynamically.</i></p>
   <img src="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
