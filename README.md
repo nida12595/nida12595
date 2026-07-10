@@ -463,3 +463,248 @@ Focused on Artificial Intelligence, Machine Learning, Full Stack Development, Cl
 > **"Great software is built through continuous learning, collaboration, and a passion for solving real-world problems."**
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nida12595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nida12595&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nida12595&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nida12595&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nida12595&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=BB9AF7&line=7C3AED&point=FFFFFF&area=true"/>
+
+</div>
+
+---
+
+# 📅 GitHub Productivity
+
+<div align="center">
+
+| Metric | Status |
+|---------|--------|
+| 💻 Public Repositories | Growing 🚀 |
+| 🌟 Open Source Contributions | Active |
+| 📚 Learning Progress | Continuous |
+| 🔥 Current Focus | AI + Full Stack |
+| 📈 GitHub Activity | Improving Daily |
+| 🤝 Collaboration | Open |
+
+</div>
+
+---
+
+# ⚡ Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+
+📝 Planning
+   │
+   ▼
+
+💻 Development
+   │
+   ▼
+
+🧪 Testing
+   │
+   ▼
+
+🚀 Deployment
+   │
+   ▼
+
+📈 Continuous Improvement
+```
+
+---
+
+# 📌 GitHub Highlights
+
+<div align="center">
+
+| ⭐ Feature | Status |
+|------------|--------|
+| GitHub Stats | ✅ Live |
+| Streak Stats | ✅ Live |
+| Top Languages | ✅ Live |
+| Trophy Cabinet | ✅ Live |
+| Activity Graph | ✅ Live |
+| Portfolio | ✅ Available |
+| AI Projects | 🚧 Growing |
+| Open Source | 🚀 Active |
+
+</div>
+
+---
+
+# 🎯 2026–2027 Goals
+
+- ✅ Become a skilled AI Engineer
+- ✅ Master MERN Stack Development
+- ✅ Learn Advanced Machine Learning
+- ✅ Explore Cloud Computing (AWS)
+- ✅ Build impactful AI-powered applications
+- ✅ Contribute consistently to Open Source
+- ✅ Secure a Software Engineering / AI Internship
+- ✅ Maintain an active GitHub profile
+
+---
+
+# 📈 Weekly Coding Activity
+
+```text
+Python           ████████████████████ 40%
+
+JavaScript       ████████████████     30%
+
+React            ███████████          15%
+
+Machine Learning ███████              10%
+
+Other            ███                  5%
+```
+
+---
+
+# 💜 GitHub Philosophy
+
+> *"Every commit is a step toward becoming a better engineer. Consistency, curiosity, and creativity drive meaningful software."*
+
+---
+# 🐍 Contribution Snake
+
+> ⚠️ This animation will appear automatically after you add the GitHub Action (`snake.yml`) in the next step.
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
+
+---
+
+# 🌱 Current Focus
+
+```yaml
+Current Focus:
+
+  Learning:
+    - Artificial Intelligence
+    - Machine Learning
+    - Cloud Computing
+    - Advanced React
+    - Node.js
+    - Express.js
+
+  Building:
+    - AI Powered Web Applications
+    - Full Stack Projects
+    - Portfolio Improvements
+
+  Exploring:
+    - Open Source Contributions
+    - Large Language Models
+    - Docker
+    - Kubernetes
+    - AWS
+
+  Goals:
+    - Software Engineering Internship
+    - AI/ML Internship
+    - Open Source Collaboration
+```
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nidakhan11255@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nidakhan22">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nida12595">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://nida12595.github.io">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💜 Let's Build Something Amazing Together
+
+<div align="center">
+
+⭐ If you like my work, consider following me and checking out my repositories!
+
+💬 I'm always open to collaborating on exciting projects related to:
+
+🤖 Artificial Intelligence
+
+🌐 Full Stack Development
+
+☁️ Cloud Computing
+
+🚀 Open Source
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer"/>
+
+</div>
