@@ -99,3 +99,207 @@ Currently, I am expanding my knowledge in **Machine Learning, Cloud Computing, a
 - 🎯 Software Engineering Internships
 
 ---
+# 💻 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify" />
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm" />
+</p>
+
+</div>
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+<div align="center">
+
+| Domain | Proficiency | Technologies | Description |
+|:-------|:-----------:|:------------|:------------|
+| Machine Learning | ⭐⭐⭐⭐☆ | Scikit-Learn, Python | Model training, prediction, preprocessing |
+| Artificial Intelligence | ⭐⭐⭐⭐☆ | AI Fundamentals | Intelligent software development |
+| Data Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy | Data cleaning and visualization |
+| Deep Learning | ⭐⭐⭐☆☆ | TensorFlow (Learning) | Neural Networks & Computer Vision |
+| Web AI | ⭐⭐⭐⭐☆ | Flask + Streamlit | AI-powered web applications |
+| Prompt Engineering | ⭐⭐⭐⭐☆ | ChatGPT, LLMs | AI workflow optimization |
+
+</div>
+
+---
+
+# 🚀 Core Technical Skills
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Frontend
+
+- React.js
+- Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Design
+- UI/UX
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend
+
+- Node.js
+- Express.js
+- Flask
+- REST APIs
+- Authentication
+- CRUD Applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🗄️ Database
+
+- MongoDB
+- MySQL
+- Firebase
+- Database Design
+
+</td>
+
+<td>
+
+### 🤖 AI & ML
+
+- Machine Learning
+- Data Preprocessing
+- Model Deployment
+- Streamlit
+- Scikit-Learn
+- AI Web Apps
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Software Engineering
+
+<div align="center">
+
+| Area | Skills |
+|------|--------|
+| Software Development | Clean Code, OOP, MVC Architecture |
+| Version Control | Git, GitHub |
+| API Development | REST APIs |
+| Deployment | GitHub Pages, Netlify, Vercel |
+| Cloud | AWS Cloud Practitioner Essentials |
+| Testing | Debugging, Performance Optimization |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```yaml
+Learning:
+
+  - Advanced React
+  - Machine Learning
+  - Deep Learning
+  - Cloud Computing
+  - Docker
+  - Kubernetes
+  - System Design
+
+Improving:
+
+  - Data Structures & Algorithms
+  - Backend Scalability
+  - AI Model Deployment
+  - Software Architecture
+
+Goal:
+
+  Become an AI Software Engineer
+```
+
+---
+
+# 🎯 Technical Highlights
+
+<div align="center">
+
+| ✔️ | Expertise |
+|:--:|-----------|
+| 🚀 | Full Stack Development |
+| 🤖 | Artificial Intelligence |
+| 📊 | Machine Learning |
+| 💻 | Responsive Web Development |
+| ☁️ | Cloud Computing |
+| 🔐 | Secure Authentication |
+| 📱 | Modern UI Development |
+| 🌍 | Open Source Collaboration |
+
+</div>
+
+---
+
+> *"Technology is best when it brings people together and solves meaningful problems."*
+
+---
