@@ -281,3 +281,222 @@ Currently Learning:
 </div>
 
 ---
+# 🚀 Featured Projects
+
+<div align="center">
+
+> *A collection of projects where creativity meets technology.* 💜
+
+</div>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🚀 Apex Glide
+
+<img src="https://img.shields.io/badge/Status-Completed-8B5CF6?style=for-the-badge"/>
+
+### 🌸 About
+
+A modern responsive web application built using modern frontend technologies with an elegant UI and smooth user experience.
+
+### 💻 Built With
+
+⚛️ React
+
+🎨 Tailwind CSS
+
+💛 JavaScript
+
+🌐 Responsive Design
+
+### ✨ Highlights
+
+🌸 Beautiful UI
+
+⚡ Fast Performance
+
+📱 Mobile Friendly
+
+🎯 Clean Architecture
+
+### 🔗 Repository
+
+<a href="https://github.com/nida12595/Apex-Glide">
+
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/computer.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+## 💻 Online Help Desk
+
+<img src="https://img.shields.io/badge/Status-Completed-C084FC?style=for-the-badge"/>
+
+### 🌸 About
+
+A full-stack Help Desk platform developed to simplify ticket management and improve communication between users and administrators.
+
+### 💻 Built With
+
+⚛️ React
+
+🟢 Node.js
+
+🚀 Express.js
+
+🍃 MongoDB
+
+### ✨ Features
+
+🔐 Authentication
+
+📨 Ticket Management
+
+📊 Dashboard
+
+⚡ REST APIs
+
+### 🔗 Repository
+
+<a href="https://github.com/nida12595">
+
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+<img src="https://img.shields.io/badge/Status-Live-D8B4FE?style=for-the-badge"/>
+
+### 🌸 About
+
+A personal portfolio showcasing my journey, projects, technical skills and passion for Artificial Intelligence.
+
+### 💻 Built With
+
+⚛️ React
+
+🎨 Tailwind CSS
+
+💛 JavaScript
+
+🌸 Framer Motion
+
+### ✨ Features
+
+💜 Animated UI
+
+📱 Responsive Layout
+
+🎯 Clean Design
+
+⚡ Smooth Navigation
+
+### 🔗 Repository
+
+<a href="https://github.com/nida12595">
+
+<img src="https://img.shields.io/badge/View_Project-C084FC?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.tenor.com/L8GqP8q4T8AAAAAi/anime-computer.gif" width="90%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💜 Project Highlights
+
+<div align="center">
+
+| 🌸 Project | 🚀 Status |
+|:----------|:---------:|
+| Apex Glide | ✅ Completed |
+| Online Help Desk | ✅ Completed |
+| Portfolio Website | 🚀 Live |
+
+</div>
+
+---
+
+# 🌷 Development Philosophy
+
+<div align="center">
+
+✨ Design with Purpose
+
+💜 Write Clean Code
+
+⚡ Build Scalable Applications
+
+🤖 Learn Something New Every Day
+
+🚀 Never Stop Improving
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 "Small commits every day build amazing software."
+
+💜✨🌸☁️⚛️🚀🤖🌷
+
+</div>
+
+---
