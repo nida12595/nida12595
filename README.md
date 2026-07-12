@@ -254,22 +254,7 @@ Goal:
 > *"Technology is best when it brings people together and solves meaningful problems."*
 
 ---
-# 👩‍💻 Professional Experience
 
-## 🎓 B.Tech Artificial Intelligence Student
-### G. Pullaiah College of Engineering and Technology
-**2023 – 2027**
-
-Focused on Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, and modern Software Engineering principles.
-
-### Responsibilities
-
-- Developing AI-powered applications using Python.
-- Building scalable Full Stack web applications.
-- Learning Machine Learning algorithms and model deployment.
-- Practicing modern frontend engineering using React & Tailwind CSS.
-- Exploring cloud technologies and deployment workflows.
-- Collaborating on academic and technical projects.
 
 ### Technical Skills Applied
 `java`
@@ -287,49 +272,6 @@ Focused on Artificial Intelligence, Machine Learning, Full Stack Development, Cl
 ---
 
 
-# 🎓 Certifications
-
-## ☁️ AWS
-
-| Certification | Status |
-|---------------|--------|
-| AWS Cloud Practitioner Essentials | ✅ Completed |
-| AWS Academy Data Engineering Virtual Internship | ✅ Completed |
-
----
-
-## 🤖 Artificial Intelligence
-
-| Certification | Status |
-|---------------|--------|
-| IBM SkillsBuild – Introduction to Artificial Intelligence | ✅ Completed |
-
----
-
-## 🌐 NPTEL
-
-| Certification | Status |
-|---------------|--------|
-| Principles of Management | ✅ Elite |
-| Social Networks | ✅ Completed |
-
----
-
-## 🔐 Cyber Security
-
-| Certification | Status |
-|---------------|--------|
-| Palo Alto Networks Security Operations Fundamentals | ✅ Completed |
-
----
-
-## 🎤 Leadership
-
-| Certification | Status |
-|---------------|--------|
-| TEDx GPCET – PR & Marketing Team Appreciation | ✅ Awarded |
-
----
 
 # 🏅 Certification Badges
 
@@ -457,24 +399,6 @@ Focused on Artificial Intelligence, Machine Learning, Full Stack Development, Cl
 
 ---
 
-# 📌 GitHub Highlights
-
-<div align="center">
-
-| ⭐ Feature | Status |
-|------------|--------|
-| GitHub Stats | ✅ Live |
-| Streak Stats | ✅ Live |
-| Top Languages | ✅ Live |
-| Trophy Cabinet | ✅ Live |
-| Activity Graph | ✅ Live |
-| Portfolio | ✅ Available |
-| AI Projects | 🚧 Growing |
-| Open Source | 🚀 Active |
-
-</div>
-
----
 
 # 🎯 2026–2027 Goals
 
