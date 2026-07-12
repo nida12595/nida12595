@@ -281,69 +281,121 @@ Currently Learning:
 </div>
 
 ---
+
 # 🚀 Featured Projects
 
 <div align="center">
 
-> *A collection of projects where creativity meets technology.* 💜
+### ✨ Things I've Built
+
+From AI experiments to full-stack applications, these are the projects I'm most proud of.
 
 </div>
 
 ---
 
-<table>
-
-<tr>
-
-<td width="50%">
-
 ## 🚀 Apex Glide
 
-<img src="https://img.shields.io/badge/Status-Completed-8B5CF6?style=for-the-badge"/>
+> Modern responsive frontend built with React and Tailwind CSS.
 
-### 🌸 About
+<p>
 
-A modern responsive web application built using modern frontend technologies with an elegant UI and smooth user experience.
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
 
-### 💻 Built With
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss"/>
 
-⚛️ React
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-🎨 Tailwind CSS
+<img src="https://img.shields.io/badge/Responsive-✔-8B5CF6?style=flat-square"/>
 
-💛 JavaScript
+</p>
 
-🌐 Responsive Design
+✨ Features
 
-### ✨ Highlights
+- Modern UI
+- Responsive Layout
+- Smooth Animations
+- Clean Components
 
-🌸 Beautiful UI
+🔗 **Repository**
 
-⚡ Fast Performance
+https://github.com/nida12595/Apex-Glide
 
-📱 Mobile Friendly
+---
 
-🎯 Clean Architecture
+## 💻 Online Help Desk
 
-### 🔗 Repository
+> A complete help desk platform for managing user tickets efficiently.
 
-<a href="https://github.com/nida12595/Apex-Glide">
+<p>
 
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
 
-</a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
 
-</td>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
 
-<td width="50%">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%"/>
+</p>
 
-</td>
+✨ Features
 
-</tr>
+- Login Authentication
+- Ticket Management
+- Dashboard
+- REST APIs
 
-</table>
+---
+
+## 🌐 Portfolio Website
+
+> My personal portfolio showcasing projects, skills and journey.
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss"/>
+
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=framer"/>
+
+</p>
+
+✨ Features
+
+- Purple Theme
+- Smooth Animations
+- Responsive Design
+- Modern UI
+
+---
+
+# 🌸 Currently Working On
+
+```text
+🤖 Artificial Intelligence
+
+⚛️ Full Stack Development
+
+☁️ Cloud Computing
+
+🚀 Open Source
+
+💜 Personal Branding
+```
+
+---
+
+<div align="center">
+
+### 💡 Favourite Quote
+
+*"Consistency beats perfection."*
+
+</div>
+
+---
 
 ---
 
