@@ -473,19 +473,109 @@ A personal portfolio showcasing my journey, projects, technical skills and passi
 
 ---
 
-# 🌷 Development Philosophy
 
 <div align="center">
 
-✨ Design with Purpose
+## 🌸 "Small commits every day build amazing software."
 
-💜 Write Clean Code
+💜✨🌸☁️⚛️🚀🤖🌷
 
-⚡ Build Scalable Applications
+</div>
 
-🤖 Learn Something New Every Day
+---
+# 📊 GitHub Analytics
 
-🚀 Never Stop Improving
+<div align="center">
+
+<img width="49%" src="https://YOUR-VERCEL-URL.vercel.app/api?username=nida12595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="37%" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=nida12595&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=nida12595&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nida12595&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nida12595&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=C084FC&line=8B5CF6&point=D8B4FE&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# 💜 GitHub Journey
+
+<div align="center">
+
+| 🌸 Focus | 🚀 Status |
+|:---------|:---------:|
+| AI Development | 🟣 Growing |
+| Full Stack Projects | 🟣 Active |
+| Open Source | 🌱 Learning |
+| Cloud Computing | ☁️ In Progress |
+| GitHub Contributions | 🚀 Daily |
+
+</div>
+
+---
+
+# ✨ Daily Motivation
+
+<div align="center">
+
+🌸 One Commit A Day
+
+☁️ One New Concept A Week
+
+💜 Keep Learning
+
+🚀 Keep Building
+
+🤖 Keep Growing
 
 </div>
 
@@ -493,9 +583,11 @@ A personal portfolio showcasing my journey, projects, technical skills and passi
 
 <div align="center">
 
-## 🌸 "Small commits every day build amazing software."
+💜 🌸 ☁️ ✨ 🤖 🚀 ⚛️ 💻 🌷
 
-💜✨🌸☁️⚛️🚀🤖🌷
+*"Every commit is another step toward becoming the engineer I aspire to be."*
+
+💜 🌸 ☁️ ✨ 🤖 🚀 ⚛️ 💻 🌷
 
 </div>
 
