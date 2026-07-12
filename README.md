@@ -417,33 +417,24 @@ From AI experiments to full-stack applications, these are the projects I'm most 
 </div>
 
 ---
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nida12595&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nida12595&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-<img width="49%" src="https://YOUR-VERCEL-URL.vercel.app/api?username=nida12595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="37%" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=nida12595&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=nida12595&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nida12595&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophy Cabinet
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nida12595&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nida12595&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
 ---
 
