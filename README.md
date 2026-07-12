@@ -1,23 +1,70 @@
-<h1 align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
- I'm <span style="color:#C084FC;">Nida Khan</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-🤖 Artificial Intelligence Student • 💻 Full Stack Developer • ☁️ Cloud Enthusiast
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:7C3AED,100:D8B4FE&text=Nida%20Khan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
+<br><br>
 
-Building intelligent applications with modern technologies while exploring the limitless possibilities of Artificial Intelligence.
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=28&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student+%F0%9F%92%9C;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Experiences+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%8C%B8"/>
 
-</p>
+<br><br>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=nida12595&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/nida12595?style=for-the-badge&color=7C3AED&label=Followers"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="58%">
+
+# 🌸 Hey, I'm Nida Khan 💜
+
+### AI Student • Full Stack Developer • Dreamer ☁️
+
+💜 Passionate about building modern web applications.
+
+🌸 Exploring Artificial Intelligence & Machine Learning.
+
+⚛️ Love creating beautiful user interfaces using React.
+
+☁️ Currently learning Cloud Computing.
+
+🚀 Open to internships & collaborations.
+
+✨ Turning ideas into intelligent digital experiences.
+
+</td>
+
+<td width="42%">
+
+<img width="280" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-🌍 Andhra Pradesh, India • 🎓 B.Tech AI Student • 🚀 Open to Internships
+### 🌷 Connect With Me
+
+<a href="https://github.com/nida12595">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nidakhan22">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nidakhan11255@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -25,14 +72,12 @@ Building intelligent applications with modern technologies while exploring the l
 
 ## 💜 About Me
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 ```yaml
 Name:
   Nida Khan
 
-Education:
-  B.Tech Artificial Intelligence
+Role:
+  B.Tech Artificial Intelligence Student
 
 College:
   G. Pullaiah College of Engineering and Technology
@@ -40,43 +85,33 @@ College:
 Graduation:
   2027
 
-Current Focus:
-  • Artificial Intelligence
-  • Machine Learning
-  • Full Stack Development
-  • Cloud Computing
+Location:
+  Andhra Pradesh, India
 
-Currently Exploring:
-  • React Ecosystem
-  • AI Web Applications
-  • Backend Development
-  • Open Source
+Interests:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Machine Learning
+  - Cloud Computing
+  - Open Source
 
-Career Goal:
-  Become an AI Software Engineer
+Currently Learning:
+  - React Ecosystem
+  - Node.js
+  - Express.js
+  - MongoDB
+  - AWS
 ```
-
-<br>
-
-### 🌸 A Little About Me
-
-💜 I enjoy transforming ideas into real-world applications.
-
-🤖 Passionate about Artificial Intelligence and modern software development.
-
-⚛️ Love building responsive web applications using React.
-
-🌱 Learning something new every day.
-
-🚀 Always excited to collaborate on innovative projects.
-
-☕ Coffee + Coding + Curiosity = Me ✨
 
 ---
 
 <div align="center">
 
-### ✨ *"Turning ideas into intelligent digital experiences."*
+🌸 🤖 💜 ☁️ ✨ 🌷 💻 🚀 🌸
+
+> *"Keep learning, keep building, and let curiosity lead the way."*
+
+🌸 🤖 💜 ☁️ ✨ 🌷 💻 🚀 🌸
 
 </div>
 
