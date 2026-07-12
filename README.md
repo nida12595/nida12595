@@ -463,22 +463,7 @@ Focused on Artificial Intelligence, Machine Learning, Full Stack Development, Cl
 > **"Great software is built through continuous learning, collaboration, and a passion for solving real-world problems."**
 
 ---
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=nida12595&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nida12595&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 
 
