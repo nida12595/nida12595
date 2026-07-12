@@ -116,3 +116,201 @@ Currently Learning:
 </div>
 
 ---
+# 💻 Tech Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,mongodb,flask,git,github,vscode&perline=7"/>
+
+</div>
+
+---
+
+# 🌸 Tech Stack
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 💜 Languages
+
+🐍 Python
+
+💛 JavaScript
+
+🧡 HTML5
+
+💙 CSS3
+
+</td>
+
+<td width="50%">
+
+## ⚛️ Frontend
+
+⚛️ React
+
+🎨 Tailwind CSS
+
+🌐 Responsive UI
+
+✨ Modern Design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## ⚙️ Backend
+
+🟢 Node.js
+
+🚀 Express.js
+
+🐍 Flask
+
+🔗 REST APIs
+
+</td>
+
+<td>
+
+## 🗄️ Database
+
+🍃 MongoDB
+
+🔥 Firebase
+
+💾 MySQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## ☁️ Cloud
+
+☁️ AWS
+
+🚀 GitHub Pages
+
+▲ Vercel
+
+🌍 Netlify
+
+</td>
+
+<td>
+
+## 🛠️ Tools
+
+💻 VS Code
+
+🐙 GitHub
+
+🌿 Git
+
+📮 Postman
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🧠 AI Journey
+
+<div align="center">
+
+| 💜 Domain | ⭐ Level |
+|:---------|:--------:|
+| Artificial Intelligence | ⭐⭐⭐⭐☆ |
+| Machine Learning | ⭐⭐⭐⭐☆ |
+| Full Stack Development | ⭐⭐⭐⭐☆ |
+| Cloud Computing | ⭐⭐⭐☆☆ |
+| UI/UX Design | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+```text
+🤖 Artificial Intelligence
+██████████████████░░ 90%
+
+⚛️ React
+████████████████░░░░ 80%
+
+☁️ Cloud Computing
+████████████░░░░░░░ 65%
+
+🟢 Node.js
+██████████████░░░░░ 75%
+
+🍃 MongoDB
+█████████████░░░░░░ 70%
+```
+
+</div>
+
+---
+
+# ✨ What I Love Building
+
+<div align="center">
+
+💜 AI Applications
+
+🌸 Beautiful User Interfaces
+
+⚛️ React Projects
+
+☁️ Cloud Based Apps
+
+📱 Responsive Websites
+
+🚀 Full Stack Applications
+
+🤖 Intelligent Systems
+
+</div>
+
+---
+
+# 🌈 Fun Facts
+
+🌸 I enjoy learning new technologies.
+
+☕ Coffee makes debugging easier.
+
+🎵 Music + Coding = Productivity.
+
+💜 Purple is my favorite aesthetic.
+
+🚀 I love building projects that solve real-world problems.
+
+---
+
+<div align="center">
+
+## 🌸 "Code. Learn. Improve. Repeat."
+
+✨ Every project teaches something new.
+
+</div>
+
+---
