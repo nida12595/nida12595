@@ -1,51 +1,38 @@
-<div align="center">
+<h1 align="center">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+ I'm <span style="color:#C084FC;">Nida Khan</span>
+</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:3B0764,50:7C3AED,100:C084FC&text=Nida%20Khan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<h3 align="center">
+🤖 Artificial Intelligence Student • 💻 Full Stack Developer • ☁️ Cloud Enthusiast
+</h3>
 
-</div>
+<p align="center">
 
-<div align="center">
+Building intelligent applications with modern technologies while exploring the limitless possibilities of Artificial Intelligence.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Building+Intelligent+Experiences;Always+Learning+Something+New"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/nida12595">
-<img src="https://img.shields.io/badge/GitHub-nida12595-1f1f1f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nidakhan22">
-<img src="https://img.shields.io/badge/LinkedIn-Nida%20Khan-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nidakhan11255@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 <br>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nida12595&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/nida12595?style=for-the-badge&color=8B5CF6&label=Followers"/>
+🌍 Andhra Pradesh, India • 🎓 B.Tech AI Student • 🚀 Open to Internships
 
 </div>
 
 ---
 
-# 💜 Hello, I'm Nida Khan
+## 💜 About Me
+
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ```yaml
-Name: Nida Khan
+Name:
+  Nida Khan
 
-Role: B.Tech Artificial Intelligence Student
+Education:
+  B.Tech Artificial Intelligence
 
 College:
   G. Pullaiah College of Engineering and Technology
@@ -53,37 +40,44 @@ College:
 Graduation:
   2027
 
-Location:
-  Andhra Pradesh, India
+Current Focus:
+  • Artificial Intelligence
+  • Machine Learning
+  • Full Stack Development
+  • Cloud Computing
 
-Currently Learning:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full Stack Development
-  - Cloud Computing
+Currently Exploring:
+  • React Ecosystem
+  • AI Web Applications
+  • Backend Development
+  • Open Source
+
+Career Goal:
+  Become an AI Software Engineer
 ```
 
----
+<br>
 
-## 👩‍💻 About Me
+### 🌸 A Little About Me
 
-I’m a passionate **Artificial Intelligence undergraduate** who enjoys building modern web applications and exploring intelligent software solutions.
+💜 I enjoy transforming ideas into real-world applications.
 
-My interests lie in combining **AI, Full Stack Development, and Cloud Computing** to create meaningful digital experiences. I enjoy learning new technologies, solving real-world problems, and continuously improving my skills through hands-on projects.
+🤖 Passionate about Artificial Intelligence and modern software development.
 
----
+⚛️ Love building responsive web applications using React.
 
-## 🌟 Quick Highlights
+🌱 Learning something new every day.
 
-- 🤖 Artificial Intelligence Enthusiast
-- 💻 Full Stack Web Developer
-- ⚛️ React & Tailwind CSS Developer
-- 🌐 MERN Stack Learner
-- ☁️ Exploring Cloud Computing
-- 🚀 Open to Collaboration & Internships
+🚀 Always excited to collaborate on innovative projects.
+
+☕ Coffee + Coding + Curiosity = Me ✨
 
 ---
 
-> *"Learning never stops. Every project is another step toward becoming a better engineer."*
+<div align="center">
+
+### ✨ *"Turning ideas into intelligent digital experiences."*
+
+</div>
 
 ---
