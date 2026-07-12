@@ -279,3 +279,94 @@ Currently Learning:
 </div>
 
 ---
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 💜 Turning Ideas into Reality
+
+Every project has been an opportunity to learn, solve problems, and build something meaningful.
+
+</div>
+
+---
+
+## 🚀 Apex Glide
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/UI-Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss"/>
+
+### 🌸 Overview
+
+A sleek and responsive web application focused on delivering a smooth user experience with modern UI components and elegant animations.
+
+### ✨ Highlights
+
+- 💜 Responsive Design
+- ⚡ Fast Performance
+- 🎨 Modern UI
+- 📱 Mobile Friendly
+- 🌟 Interactive Components
+
+**🔗 GitHub**
+
+➡️ https://github.com/nida12595/Apex-Glide
+
+---
+
+## 💻 Online Help Desk
+
+<img src="https://img.shields.io/badge/Status-Completed-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+### 🌸 Overview
+
+A full-stack Help Desk platform designed to simplify issue reporting, ticket management, and communication between users and administrators.
+
+### ✨ Highlights
+
+- 🔐 User Authentication
+- 📩 Ticket Management
+- 📊 Admin Dashboard
+- 🚀 REST APIs
+- 🍃 MongoDB Database
+
+**🔗 Live Demo**
+
+➡️ https://onlinehelpdesk.infinityfreeapp.com
+
+---
+
+## 🌐 Portfolio Website
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-React-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Theme-Purple-C084FC?style=for-the-badge"/>
+
+### 🌸 Overview
+
+A personal portfolio showcasing my projects, technical skills, achievements, and passion for Artificial Intelligence and Full Stack Development.
+
+### ✨ Highlights
+
+- 🎨 Premium Purple Theme
+- ✨ Smooth Animations
+- 📱 Fully Responsive
+- 💼 Project Showcase
+- 📬 Contact Section
+
+**🔗 GitHub**
+
+➡️ https://github.com/nida12595
+
+---
+
+<div align="center">
+
+### 🌸 *"Great projects aren't built in a day—they're built one commit at a time."* 💜
+
+</div>
+
+---
