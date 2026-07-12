@@ -400,18 +400,7 @@ Goal:
 ---
 
 
-# 🎯 2026–2027 Goals
 
-- ✅ Become a skilled AI Engineer
-- ✅ Master MERN Stack Development
-- ✅ Learn Advanced Machine Learning
-- ✅ Explore Cloud Computing (AWS)
-- ✅ Build impactful AI-powered applications
-- ✅ Contribute consistently to Open Source
-- ✅ Secure a Software Engineering / AI Internship
-- ✅ Maintain an active GitHub profile
-
----
 
 # 📈 Weekly Coding Activity
 
