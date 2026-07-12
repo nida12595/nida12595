@@ -228,48 +228,6 @@ Currently Learning:
 
 ---
 
-# 🧠 AI Journey
-
-<div align="center">
-
-| 💜 Domain | ⭐ Level |
-|:---------|:--------:|
-| Artificial Intelligence | ⭐⭐⭐⭐☆ |
-| Machine Learning | ⭐⭐⭐⭐☆ |
-| Full Stack Development | ⭐⭐⭐⭐☆ |
-| Cloud Computing | ⭐⭐⭐☆☆ |
-| UI/UX Design | ⭐⭐⭐⭐☆ |
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-```text
-🤖 Artificial Intelligence
-██████████████████░░ 90%
-
-⚛️ React
-████████████████░░░░ 80%
-
-☁️ Cloud Computing
-████████████░░░░░░░ 65%
-
-🟢 Node.js
-██████████████░░░░░ 75%
-
-🍃 MongoDB
-█████████████░░░░░░ 70%
-```
-
-</div>
-
----
-
-
 <div align="center">
 
 ## 🌸 "Code. Learn. Improve. Repeat."
@@ -345,17 +303,6 @@ A full-stack Help Desk platform designed to simplify issue reporting, ticket man
 <img src="https://img.shields.io/badge/Portfolio-React-61DAFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Theme-Purple-C084FC?style=for-the-badge"/>
 
-### 🌸 Overview
-
-A personal portfolio showcasing my projects, technical skills, achievements, and passion for Artificial Intelligence and Full Stack Development.
-
-### ✨ Highlights
-
-- 🎨 Premium Purple Theme
-- ✨ Smooth Animations
-- 📱 Fully Responsive
-- 💼 Project Showcase
-- 📬 Contact Section
 
 **🔗 GitHub**
 
