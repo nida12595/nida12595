@@ -153,22 +153,6 @@ Currently, I am expanding my knowledge in **Machine Learning, Cloud Computing, a
 
 ---
 
-# 🤖 Artificial Intelligence & Machine Learning
-
-<div align="center">
-
-| Domain | Proficiency | Technologies | Description |
-|:-------|:-----------:|:------------|:------------|
-| Machine Learning | ⭐⭐⭐⭐☆ | Scikit-Learn, Python | Model training, prediction, preprocessing |
-| Artificial Intelligence | ⭐⭐⭐⭐☆ | AI Fundamentals | Intelligent software development |
-| Data Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy | Data cleaning and visualization |
-| Deep Learning | ⭐⭐⭐☆☆ | TensorFlow (Learning) | Neural Networks & Computer Vision |
-| Web AI | ⭐⭐⭐⭐☆ | Flask + Streamlit | AI-powered web applications |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | ChatGPT, LLMs | AI workflow optimization |
-
-</div>
-
----
 
 # 🚀 Core Technical Skills
 
@@ -237,22 +221,7 @@ Currently, I am expanding my knowledge in **Machine Learning, Cloud Computing, a
 
 ---
 
-# ⚡ Software Engineering
 
-<div align="center">
-
-| Area | Skills |
-|------|--------|
-| Software Development | Clean Code, OOP, MVC Architecture |
-| Version Control | Git, GitHub |
-| API Development | REST APIs |
-| Deployment | GitHub Pages, Netlify, Vercel |
-| Cloud | AWS Cloud Practitioner Essentials |
-| Testing | Debugging, Performance Optimization |
-
-</div>
-
----
 
 # 📚 Currently Learning
 
@@ -281,24 +250,6 @@ Goal:
 
 ---
 
-# 🎯 Technical Highlights
-
-<div align="center">
-
-| ✔️ | Expertise |
-|:--:|-----------|
-| 🚀 | Full Stack Development |
-| 🤖 | Artificial Intelligence |
-| 📊 | Machine Learning |
-| 💻 | Responsive Web Development |
-| ☁️ | Cloud Computing |
-| 🔐 | Secure Authentication |
-| 📱 | Modern UI Development |
-| 🌍 | Open Source Collaboration |
-
-</div>
-
----
 
 > *"Technology is best when it brings people together and solves meaningful problems."*
 
@@ -335,22 +286,6 @@ Focused on Artificial Intelligence, Machine Learning, Full Stack Development, Cl
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Description |
-|-------------|-------------|
-| 🧠 AI Developer | Built Artificial Intelligence based academic projects |
-| 🌐 Full Stack Developer | Developed responsive MERN Stack applications |
-| ☁️ Cloud Learner | Completed AWS Cloud Practitioner Essentials |
-| 🏅 NPTEL Learner | Successfully completed NPTEL certification courses |
-| 🤝 TEDx Volunteer | PR & Marketing Team Member – TEDx GPCET |
-| 💻 Open Source Learner | Continuously improving GitHub profile and projects |
-
-</div>
-
----
 
 # 🎓 Certifications
 
