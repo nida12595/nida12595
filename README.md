@@ -457,38 +457,8 @@ src="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contrib
 
 ---
 
-# 🌱 Current Focus
 
-```yaml
-Current Focus:
-
-  Learning:
-    - Artificial Intelligence
-    - Machine Learning
-    - Cloud Computing
-    - Advanced React
-    - Node.js
-    - Express.js
-
-  Building:
-    - AI Powered Web Applications
-    - Full Stack Projects
-    - Portfolio Improvements
-
-  Exploring:
-    - Open Source Contributions
-    - Large Language Models
-    - Docker
-    - Kubernetes
-    - AWS
-
-  Goals:
-    - Software Engineering Internship
-    - AI/ML Internship
-    - Open Source Collaboration
-```
-
----
+   
 
 # 📬 Connect With Me
 
