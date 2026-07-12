@@ -317,3 +317,54 @@ A full-stack Help Desk platform designed to simplify issue reporting, ticket man
 </div>
 
 ---
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nida12595/nida12595/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 💌 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/nida12595">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nidakhan22">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nidakhan11255@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+✨ *Always learning • Always building • Always growing* ✨
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,50:7C3AED,100:D8B4FE"/>
+
+</div>
