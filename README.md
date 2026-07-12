@@ -269,41 +269,8 @@ Currently Learning:
 
 ---
 
-# ✨ What I Love Building
 
-<div align="center">
 
-💜 AI Applications
-
-🌸 Beautiful User Interfaces
-
-⚛️ React Projects
-
-☁️ Cloud Based Apps
-
-📱 Responsive Websites
-
-🚀 Full Stack Applications
-
-🤖 Intelligent Systems
-
-</div>
-
----
-
-# 🌈 Fun Facts
-
-🌸 I enjoy learning new technologies.
-
-☕ Coffee makes debugging easier.
-
-🎵 Music + Coding = Productivity.
-
-💜 Purple is my favorite aesthetic.
-
-🚀 I love building projects that solve real-world problems.
-
----
 
 <div align="center">
 
